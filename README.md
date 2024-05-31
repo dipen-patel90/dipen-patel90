@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipen Patel</h1>
-<h3 align="center">Android lead | Kotlin | Java | Jetpack Compose | BLE | IoT</h3>
+<h3 align="center">Team Lead | Kotlin | Swift | Jetpack Compose | BLE | IoT</h3>
 
-<image src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg"/>
+<image src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipen-patel90&label=Profile%20views&color=0e75b6&style=flat" alt="dipen-patel90" /> </p>
 

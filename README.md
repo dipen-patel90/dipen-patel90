@@ -19,10 +19,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dipen-patel90](https://www.linkedin.com/in/dipen-patel90)
 
-- ⚡ Fun fact 1 **I put my phone on Airplane mode, and I can't find it now. Maybe it flew away.**
-- ⚡ Fun fact 2 **I am gonna take my Mac to the eclipe(oldtown) mode.
-I gonna write till I can't no more.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dipen-patel90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipen-patel90" height="30" width="40" /></a>
